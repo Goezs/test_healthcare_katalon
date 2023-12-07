@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>boton_Book_Appointment</name>
+   <tag></tag>
+   <elementGuidId>447c3bb8-d39b-44b9-a509-55f70f7fc75e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;btn-book-appointment&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;btn-book-appointment&quot;]</value>
+      <webElementGuid>807738a6-3ef2-47ad-a89a-753986020f05</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

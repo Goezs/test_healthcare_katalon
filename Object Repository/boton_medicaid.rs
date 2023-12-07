@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>boton_medicaid</name>
+   <tag></tag>
+   <elementGuidId>d3e03887-efa5-4835-8ace-87abfa6fd0cd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;radio_program_medicaid&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;radio_program_medicaid&quot;]</value>
+      <webElementGuid>03df08e7-617f-452c-91b9-c77439648e10</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
